@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Rental Food &#8211; Reequle</title>
+	<atom:link href="/listing-category/rent-food/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description>perfect site to find your stay</description>
+	<lastBuildDate>Tue, 14 Jun 2022 03:24:47 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0.1</generator>
+
+<image>
+	<url>/wp-content/uploads/2022/06/cropped-Custom_dimensions_500x500_px-removebg-preview-1-32x32.png</url>
+	<title>Rental Food &#8211; Reequle</title>
+	<link></link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Patil mess</title>
+		<link>/listing/pink-moleskine-notebook/</link>
+					<comments>/listing/pink-moleskine-notebook/#comments</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Wed, 17 Nov 2021 15:40:22 +0000</pubDate>
+				<guid isPermaLink="false">https://listinghive.hivepress.io/?post_type=hp_listing&#038;p=42</guid>
+
+					<description><![CDATA[Category: Rental Food; Vendor: admin.]]></description>
+										<content:encoded><![CDATA[<p>local style food</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/listing/pink-moleskine-notebook/feed/</wfw:commentRss>
+			<slash:comments>2</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Potoba</title>
+		<link>/listing/bang-olufsen-speaker/</link>
+					<comments>/listing/bang-olufsen-speaker/#comments</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Wed, 17 Nov 2021 15:17:16 +0000</pubDate>
+				<guid isPermaLink="false">https://listinghive.hivepress.io/?post_type=hp_listing&#038;p=27</guid>
+
+					<description><![CDATA[Category: Rental Food; Vendor: admin.]]></description>
+										<content:encoded><![CDATA[<p>jg</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/listing/bang-olufsen-speaker/feed/</wfw:commentRss>
+			<slash:comments>2</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>vikram mess</title>
+		<link>/listing/apple-iphone-x-green/</link>
+					<comments>/listing/apple-iphone-x-green/#comments</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Wed, 17 Nov 2021 15:02:06 +0000</pubDate>
+				<guid isPermaLink="false">https://listinghive.hivepress.io/?post_type=hp_listing&#038;p=44</guid>
+
+					<description><![CDATA[Category: Rental Food; Vendor: admin.]]></description>
+										<content:encoded><![CDATA[<p>gm</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/listing/apple-iphone-x-green/feed/</wfw:commentRss>
+			<slash:comments>2</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Talpade mess</title>
+		<link>/listing/handmade-wooden-table/</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Tue, 16 Nov 2021 20:38:12 +0000</pubDate>
+				<guid isPermaLink="false">https://listinghive.hivepress.io/?post_type=hp_listing&#038;p=51</guid>
+
+					<description><![CDATA[Category: Rental Food; Vendor: admin.]]></description>
+										<content:encoded><![CDATA[<p>ss</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Vansh Food</title>
+		<link>/listing/vans-old-skool-shoes/</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Mon, 15 Nov 2021 20:42:58 +0000</pubDate>
+				<guid isPermaLink="false">https://listinghive.hivepress.io/?post_type=hp_listing&#038;p=46</guid>
+
+					<description><![CDATA[Category: Rental Food; Vendor: admin.]]></description>
+										<content:encoded><![CDATA[<p>L</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>
